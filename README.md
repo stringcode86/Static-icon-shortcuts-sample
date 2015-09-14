@@ -1,0 +1,1 @@
+# Static-icon-shortcuts-sample
