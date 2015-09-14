@@ -60,7 +60,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         return handled
     }
-
-
 }
 
